@@ -13,12 +13,6 @@ In this project, I implemented a auto-complete search tools based on N-Gram mode
 
 * Using PHP, Ajax, JQuery tech to show the data from database, return the results to the web interface.
 
-## Web Interface
-
-Demo looks like
-
-
-![](pic/demo.png)
 
 ## Deploy
 First we need deploy a hadoop cluster on Docker, this cluster has one Masternode and two slavenodes. The whole project is based on the docker.
