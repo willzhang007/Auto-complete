@@ -1,7 +1,7 @@
 # Auto-Complete project
 
 ## Overview
-In this project, I implemented a auto-complete search tools based on N-Gram model using Hadoop MapReduce and Java language.
+In this project, I implemented a auto-complete search tools based on N-Gram model using Hadoop MapReduce and built a website server with PHP,Ajax and JQuery.
 
 ## Main Steps
 
